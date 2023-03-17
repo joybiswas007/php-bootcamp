@@ -1,0 +1,1 @@
+GET /Car.php - Uncaught Error: Call to a member function sayHello() on null
